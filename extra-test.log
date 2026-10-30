@@ -1,0 +1,32 @@
+defuser.c SHA256: 37a9b20a7af7ac74e2152656cb4e2098100724f6cb62455262e59ecc40a4ca68
+Non-public seed: 314159
+  Phase 1: PASS
+  Phase 2: PASS
+  Phase 3: PASS
+  Phase 4: PASS
+  Phase 5: PASS
+  Phase 6: PASS
+  Honor: PASS
+Non-public seed: 271828
+  Phase 1: PASS
+  Phase 2: PASS
+  Phase 3: PASS
+  Phase 4: PASS
+  Phase 5: PASS
+  Phase 6: PASS
+  Honor: PASS
+Non-public seed: 20261030
+  Phase 1: PASS
+  Phase 2: PASS
+  Phase 3: PASS
+  Phase 4: PASS
+  Phase 5: PASS
+  Phase 6: PASS
+  Honor: PASS
+Phase 1: 128/128 selector/target coverage checks PASS
+Phase 2: 128/128 selector/target coverage checks PASS
+Phase 3: 128/128 selector/target coverage checks PASS
+Phase 4: 128/128 selector/target coverage checks PASS
+Phase 5: 128/128 selector/target coverage checks PASS
+Phase 6: 128/128 selector/target coverage checks PASS
+Extra checks: 789/789 PASS
