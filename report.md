@@ -163,6 +163,3 @@ Z = Y ^ U32((A>>1) + B + S + 0x1636)
 
 1. [课程实验说明](https://ics-26fall-fdu.github.io/labs/lab2-bomb-lab/)。
 2. [模板仓库README](https://github.com/ICS-26Fall-FDU/BombLab#readme)：接口、验证方式、报告及final标签要求。
-3. 个人炸弹的 `objdump -d -M intel` 反汇编，以及 `.rodata`、`.data` 段转储：本文计算关系与常数的直接来源。
-4. 仓库内 `defuser.h`、`defuser_main.c`、`challenge.c`、`public_test.py`：接口、上下文传递、公开验证流程。
-5. OpenAI Codex：辅助用途见报告开头的披露。
